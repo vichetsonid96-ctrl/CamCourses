@@ -1,0 +1,12 @@
+saved_resource*.html
+*.download
+*.js.gz
+node_modules/
+preview
+mcp_apps.html
+isolated-segment.html
+fbevents*
+facebook-pixel*
+index-U0BBAeQj*
+lupk8zyo
+commons.*
